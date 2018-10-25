@@ -16,10 +16,10 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Hello"
+description: Just a websit to share my words and photos and etc...
 baseurl:
-url:
+url: https://rigyoukou.github.io/gh-page2/
 logo: "/images/site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -86,12 +86,12 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
+author: lixiaohao
+name: lixiaohao
+picture: michael-rose-photo.jpg
+email: lixiaohao0927@gmail.com
+twitter:
+links:
     - title:
       url:
       icon:
