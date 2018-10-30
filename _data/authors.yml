@@ -1,13 +1,13 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+Ri Gyoukou:
+  name: rigyoukou
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@li_xh"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/li_xh
       icon: fab fa-twitter-square
 
 Cornelius Fiddlebone:

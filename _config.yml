@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
+# remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hello"
@@ -35,7 +35,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: xh_li
+  username: li_xh
 
 # Liquid
 liquid:
@@ -107,29 +107,29 @@ author: lixiaohao
 name: lixiaohao
 picture: /images/michael-rose-photo.jpg
 email: lixiaohao0927@gmail.com
-twitter: mmistakes
+twitter: li_xh
 links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/li_xh
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/flyingkitesm
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/rigyoukou
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/li_xh
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/flyingkitesm
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/rigyoukou
     icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#- title: Feed
+#  url: atom.xml
+#  icon: fas fa-rss-square
