@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme
+
 locale: en-US
 title: "Hello"
 description: Just a websit to share my words and photos and etc...
@@ -22,7 +23,7 @@ baseurl:
 url: https://rigyoukou.github.io/gh-page2/
 logo: "/images/site-logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
+read_time: true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
@@ -106,14 +107,29 @@ author: lixiaohao
 name: lixiaohao
 picture: /images/michael-rose-photo.jpg
 email: lixiaohao0927@gmail.com
-twitter:
+twitter: mmistakes
 links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/mmistakes
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/mmistakes
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/mmistakes
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/mmistakes
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/mmistakes
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/mmistakes
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
