@@ -4,4 +4,4 @@ hidden: true
 last_modified_at:
 ---
 
-はじめまして、今日は雨です！
+今天是个下雨天！
